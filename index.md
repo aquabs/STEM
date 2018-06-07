@@ -8,7 +8,7 @@
 <body>
   <header class="container">
     <div class="row">
-      <nav class="col-sm-4 text-left">
+      <nav class="col-sm-4">
          <p>Home</p>
       <p>Clubs</p>
       <p>Events</p>
