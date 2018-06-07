@@ -14,10 +14,10 @@
       <p>Events</p>
       <p>News</p>
       <nav class="col-sm-4 text-right">
-        <img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/instagram.svg" height="10">
-        <img src="https://gibbesartofdesign.files.wordpress.com/2015/12/socialmedia-icons-gray_twitter-circle.png" height="10">
-        <img src="http://www.allthelittlethings.co.uk/userimages/FACEBOOK%20LOGO.jpg" height="10">
-        <img src="http://green-me-up.com/wp-content/uploads/2016/12/email-logo-grey.png" height="10">
+        <img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/instagram.svg" height="45">
+        <img src="https://gibbesartofdesign.files.wordpress.com/2015/12/socialmedia-icons-gray_twitter-circle.png" height="45">
+        <img src="http://www.allthelittlethings.co.uk/userimages/FACEBOOK%20LOGO.jpg" height="45">
+        <img src="http://green-me-up.com/wp-content/uploads/2016/12/email-logo-grey.png" height="45">
       </nav>
      </div>
      </header>
