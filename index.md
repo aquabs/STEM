@@ -8,7 +8,7 @@
 <body>
   <header class="container">
     <div class="row">
-      <nav class="col-sm-12">
+      <nav class="col-sm-12 text-left">
          <p>Home</p>
       <p>Clubs</p>
       <p>Events</p>
@@ -19,8 +19,7 @@
         <img src="http://www.allthelittlethings.co.uk/userimages/FACEBOOK%20LOGO.jpg">
         <img src="http://green-me-up.com/wp-content/uploads/2016/12/email-logo-grey.png">
       </nav>-->
-    </div>
-  </header>
+  
 
 
 
