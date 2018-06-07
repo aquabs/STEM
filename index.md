@@ -19,6 +19,4 @@
         <img src="http://www.allthelittlethings.co.uk/userimages/FACEBOOK%20LOGO.jpg" height="45">
         <img src="http://green-me-up.com/wp-content/uploads/2016/12/email-logo-grey.png" height="45">
       </nav>
-     </div>
-     </header>
-   </body>
+     
