@@ -8,12 +8,12 @@
 <body>
   <header class="container">
     <div class="row">
-      <nav class="col-sm-4">
+      <nav class="col-sm-6">
          <p>Home</p>
       <p>Clubs</p>
       <p>Events</p>
       <p>News</p>
-      <nav class="col-sm-8 text-right">
+      <nav class="col-sm-6 text-right">
         <img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/instagram.svg">
         <img src="https://gibbesartofdesign.files.wordpress.com/2015/12/socialmedia-icons-gray_twitter-circle.png">
         <img src="http://www.allthelittlethings.co.uk/userimages/FACEBOOK%20LOGO.jpg">
