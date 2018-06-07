@@ -25,7 +25,7 @@
 
 
 
-<!---<html>
+<!--<html>
  <head>
   <meta charset="utf-8"/>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
@@ -46,5 +46,5 @@
         <img src="https://gibbesartofdesign.files.wordpress.com/2015/12/socialmedia-icons-gray_twitter-circle.png" height="45">
         <img src="http://www.allthelittlethings.co.uk/userimages/FACEBOOK%20LOGO.jpg" height="45">
         <img src="http://green-me-up.com/wp-content/uploads/2016/12/email-logo-grey.png" height="45">
-      </nav>
+      </nav>-->
      
