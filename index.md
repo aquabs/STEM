@@ -8,13 +8,13 @@
 <body>
   <header class="container">
     <div class="row">
-      <p class="col-sm-4">Home</p>
       <nav class="col-sm-8 text-right">
         <p>Clubs</p>
         <p>Events</p>
         <p>News</p>
         <p>Contact</p>
       </nav>
+      <p class="col-sm-4">Home</p>
     </div>
   </header>
  
