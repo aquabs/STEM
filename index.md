@@ -14,7 +14,7 @@
 </div>
 
 <div class="main">
-  <p>Some text some text some text some text..</p>
+
 </div> 
      
 
