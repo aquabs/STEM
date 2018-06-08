@@ -7,8 +7,9 @@
   </head>
 <div class="navbar">
   <a href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
+  <a href="#clubs">Clubs</a>
+  <a href="#events">Events</a>
+  <a href="#news">News</a>
 </div>
 
 <div class="main">
