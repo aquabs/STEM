@@ -5,11 +5,14 @@
   <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" type="text/css" href="main.css">
   </head>
-<div class="topnav">
-  <a class="active" href="#home">Home</a>
+<div class="navbar">
+  <a href="#home">Home</a>
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+</div>
+
+<div class="main">
+  <p>Some text some text some text some text..</p>
 </div> 
      
 
