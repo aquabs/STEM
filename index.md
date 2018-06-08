@@ -31,7 +31,7 @@
           <img src="https://americanlibrariesmagazine.org/wp-content/uploads/2017/06/saujani-reshma.jpg">
       </figure>
        <figure class="col-sm-4">
-         <h1>Empowerment</h1>
+         <h1>Empowering the Next Generation</h1>
            <img src="https://knightfoundation.org/media/uploads/media_images/Girls_Who_Code.jpg">
       </figure>
        <figure class="col-sm-4">
