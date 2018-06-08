@@ -13,6 +13,9 @@ body .col-sm-12{
 body .col-sm-12 img{
  align-items: center;
 }
+body .col-sm-4{
+  style="text-align:center"
+}
 
 header {
   padding: 0px 0;
