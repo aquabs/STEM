@@ -17,6 +17,25 @@
       </nav>
     </div>
   </header>
+  <section class="container">
+    <div class="row">
+      <figure class="col-sm-12">
+      </figure>
+    </div>
+  </section>
+  <section class="container">
+    <div class="row">
+      <figure class="col-sm-4">
+        <a href="https://americanlibrariesmagazine.org/wp-content/uploads/2017/06/saujani-reshma.jpg"><h1>Addressing Workplace Discrepancy</h1></a>
+      </figure>
+       <figure class="col-sm-4">
+         <a href="https://knightfoundation.org/media/uploads/media_images/Girls_Who_Code.jpg"><h1>Empowerment</h1></a>
+      </figure>
+       <figure class="col-sm-4">
+         <a href="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/H1B6857-e1484172042843.jpg"><h1>Destroying Social Stigmas</h1></a>
+      </figure>
+    </div>
+  </section>
  
   <footer class="container">
     <div class="row">
