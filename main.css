@@ -1,30 +1,96 @@
 
-.navbar {
-    overflow: hidden;
-    background-color: #000000;
-    position: fixed; /* Set the navbar to fixed position */
-    top: 0; /* Position the navbar at the top of the page */
-    width: 100%; /* Full width */
-    align: center;
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  padding-right: 175px;
+  align-items: center;
+ }
+
+body .col-sm-12{
+  font-weight:2000;
+  style="text-align:center"
+}
+body .col-sm-12 img{
+ align-items: center;
 }
 
-/* Links inside the navbar */
-.navbar a {
-    float: left;
-    display: block;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 50px;
-    text-decoration: none;
+header {
+  padding: 0px 0;
 }
 
-/* Change background on mouse-over */
-.navbar a:hover {
-    background: #000000;
-    color: #000000;
+header .row,
+
+footer .row {
+  display: flex;
+  align-items: center;
 }
 
-/* Main content */
-.main {
-    margin-top: 30px; /* Add a top margin to avoid content overlay */
-} 
+header h1 {
+  font-weight: 700;
+  margin: 0;
+}
+
+header nav {
+  display: flex;  
+  justify-content: flex-end;
+}
+
+header p {
+  padding: 0px 20px;  
+  margin: 0;
+}
+
+.jumbotron h2 {
+  font-size: 60px;
+  font-weight: 700;
+  margin: 0;
+  color: #000000;
+}
+
+section .row img {
+  margin: 0 0 30px;
+  width: 100%;
+}
+
+.col-md-4 {
+  margin: 0 100 0px;
+}
+
+
+.btn.btn-primary {
+  border-radius: 2px;
+  border: 0px;
+  color: #fbd1d5;
+  text-shadow: none;
+  background-color: #ffffff;
+}
+
+.btn.btn-primary:hover {
+  color: #ffffff;
+  background-color: #fbd1d5;
+}
+
+.btn-secondary {
+  background-color: #E8DFE0;
+  color: #ffffff;
+  margin: 0 0 30px;
+}
+
+footer {
+  font-size: 12px;
+  padding: 20px 0;
+}
+
+footer .col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer li img {
+  width: 32px;
+  height: 32px;
+}
