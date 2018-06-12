@@ -22,8 +22,7 @@
     <div class="row">
       <figure class="col-sm-12">
       </figure>
-    </div>
-  </section>
+    </div>  </section>
 
 <section class="container">
     <div class="row">
@@ -47,7 +46,10 @@
             <img src="https://nscresearchcenter.org/wp-content/uploads/WP-Snapshot-012715-2-900x625.png">
           </figure>
           <figure class="col-sm-4">
-            
+            <img src="http://cesie.org/media/equality-for-change-big.jpg">
+            <img src="https://i.pinimg.com/originals/35/78/e0/3578e07f8d51ace7d1d7e59f5ff5074a.png">
+            <img src="https://americaforbeginners.files.wordpress.com/2011/06/gender-distribution.png">
+            <img src="http://i2.cdn.turner.com/money/dam/assets/141027150129-gender-gap-infographic-1024x576.jpg">
           </figure>
     </div>
   </section>
