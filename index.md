@@ -26,9 +26,9 @@
     </section>
 <section class="container">
     <div class="row">
-      <figure class="col-sm-4 text-center">
+      <figure class="col-sm-4">
      <div class="polaroid">
-         <img src="rock600x400.jpg" alt="Norway" style="width:100%">
+         <img src="https://americanlibrariesmagazine.org/wp-content/uploads/2017/06/saujani-reshma.jpg" alt="Norway" style="width:100%">
           <div class="container">
             <p>The Troll's tongue in Hardanger, Norway</p>
             </div>
