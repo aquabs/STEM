@@ -48,6 +48,7 @@ header p {
 .jumbotron h2 {
   font-size: 60px;
 
+
   font-weight: 700;
   margin: 0;
   color: #000000;
@@ -101,14 +102,9 @@ footer li img {
   height: 32px;
 }
 
-div.polaroid {
-  width: 80%;
-  background-color: white;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin-bottom: 25px;
-}
-
-div.container {
-  text-align: center;
-  padding: 10px 20px;
+h2.ex1 {
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: red;
+    outline-width: thin;
 }
