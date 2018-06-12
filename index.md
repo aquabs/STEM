@@ -27,9 +27,13 @@
 <section class="container">
     <div class="row">
       <figure class="col-sm-4 text-center">
-      <h2>Addressing Workplace Discrepancy</h2>
-          <img src="https://americanlibrariesmagazine.org/wp-content/uploads/2017/06/saujani-reshma.jpg">
-      </figure>
+     <div class="polaroid">
+         <img src="rock600x400.jpg" alt="Norway" style="width:100%">
+          <div class="container">
+            <p>The Troll's tongue in Hardanger, Norway</p>
+            </div>
+       </div>
+        </div>
        <figure class="col-sm-4 text-center">
          <h2>Empowerment</h2>
            <img src="https://knightfoundation.org/media/uploads/media_images/Girls_Who_Code.jpg">
