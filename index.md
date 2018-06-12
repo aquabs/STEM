@@ -24,7 +24,8 @@
       </figure>
     </div>
   </section>
-  <section class="container">
+
+<section class="container">
     <div class="row">
       <figure class="col-sm-4 text-center">
       <h2>Addressing Workplace Discrepancy</h2>
@@ -42,10 +43,11 @@
         <div class="row">
           <figure class="col-sm-8">
             <img src="https://nscresearchcenter.org/wp-content/uploads/WP-Snapshot-012715-2-900x625.png">
-            <img src="http://investingforthebetter.com/wp-content/uploads/2018/03/the-age-that-girls-lose-interest-in-STEM.png">
+            <img src="https://i.pinimg.com/736x/4a/3f/56/4a3f5689f26988f886e767e9c1fa3479--gender-inequality-critical-thinking.jpg">
             <img src="http://edtechreview.in/images/gender_equality_in_education.jpg">
           </figure>
           <figure class="col-sm-4">
+            
           </figure>
     </div>
   </section>
