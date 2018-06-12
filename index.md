@@ -1,4 +1,3 @@
-
 <html>
 <head>
   <meta charset="utf-8"/>
@@ -28,15 +27,15 @@
 <section class="container">
     <div class="row">
       <figure class="col-sm-4 text-center">
-        <h2>Workplace Discrepancy</h2>
+        <h2 class="ex1">Workplace Discrepancy</h2>
          <img src="https://americanlibrariesmagazine.org/wp-content/uploads/2017/06/saujani-reshma.jpg">
       </figure>
        <figure class="col-sm-4 text-center">
-         <h2>Empowerment</h2>
+         <h2 class="ex1">Empowerment</h2>
            <img src="https://knightfoundation.org/media/uploads/media_images/Girls_Who_Code.jpg">
       </figure>
        <figure class="col-sm-4 text-center">
-        <h2>Destroying Social Stigmas</h2>
+        <h2 class="ex1">Destroying Social Stigmas</h2>
            <img src="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/H1B6857-e1484172042843.jpg">
       </figure>
   </div>
