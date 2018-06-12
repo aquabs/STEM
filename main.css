@@ -9,7 +9,9 @@ body {
 body div {
   position: relative;
 }
-
+body col-sm-4{
+  padding:0px;
+}
 body .col-sm-12{
   font-weight:2000;
   style="text-align:center"
