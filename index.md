@@ -1,3 +1,4 @@
+
 <html>
 <head>
   <meta charset="utf-8"/>
@@ -29,7 +30,7 @@
       <figure class="col-sm-4 text-center">
         <h2>Workplace Discrepancy</h2>
          <img src="https://americanlibrariesmagazine.org/wp-content/uploads/2017/06/saujani-reshma.jpg">
-        </div>
+      </figure>
        <figure class="col-sm-4 text-center">
          <h2>Empowerment</h2>
            <img src="https://knightfoundation.org/media/uploads/media_images/Girls_Who_Code.jpg">
