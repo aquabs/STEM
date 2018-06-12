@@ -29,6 +29,7 @@
       <figure class="col-sm-4 text-center">
       <h2>Addressing Workplace Discrepancy</h2>
           <img src="https://americanlibrariesmagazine.org/wp-content/uploads/2017/06/saujani-reshma.jpg">
+        <img src="http://cesie.org/media/equality-for-change-big.jpg">
       </figure>
        <figure class="col-sm-4 text-center">
          <h2>Empowerment</h2>
@@ -38,6 +39,8 @@
         <h2>Destroying Social Stigmas</h2>
            <img src="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/H1B6857-e1484172042843.jpg">
       </figure>
+  </div>
+    </section>
       <section class="container">
         <div class="row">
           <figure class="col-sm-8 align-right">
