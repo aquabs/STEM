@@ -6,6 +6,10 @@ body {
   align-items: center;
  }
 
+body div {
+  position: relative;
+}
+
 body .col-sm-12{
   font-weight:2000;
   style="text-align:center"
