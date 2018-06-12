@@ -31,13 +31,22 @@
           <img src="https://americanlibrariesmagazine.org/wp-content/uploads/2017/06/saujani-reshma.jpg">
       </figure>
        <figure class="col-sm-4 text-center">
-         <h2>Empowering the Next Generation</h2>
+         <h2>Empowerment</h2>
            <img src="https://knightfoundation.org/media/uploads/media_images/Girls_Who_Code.jpg">
       </figure>
        <figure class="col-sm-4 text-center">
-        <h2>Destroying Social Gender Stigmas</h2>
+        <h2>Destroying Social Stigmas</h2>
            <img src="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/H1B6857-e1484172042843.jpg">
       </figure>
+      <section class="container">
+        <div class="row">
+          <figure class="col-sm-8">
+            <img src="https://nscresearchcenter.org/wp-content/uploads/WP-Snapshot-012715-2-900x625.png">
+            <img src="http://investingforthebetter.com/wp-content/uploads/2018/03/the-age-that-girls-lose-interest-in-STEM.png"
+            <img src="http://edtechreview.in/images/gender_equality_in_education.jpg">
+          </figure>
+          <figure class="col-sm-4">
+          </figure>
     </div>
   </section>
  
