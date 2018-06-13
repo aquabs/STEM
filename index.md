@@ -61,13 +61,13 @@
         <section class="container">
           <div class="row">
             <figure class="col-sm-3">
-                    <img src="https://infographic.statista.com/normal/chartoftheday_11667_the_long_road_to_gender_equality_n.jpg">
+                    <img src="gwcg.png">
              </figure>
              <figure class="col-sm-3">
-                    <img src="http://www.hippoquotes.com/img/gender-equality-quotes/66373fb27a65a1f8282f0461e9531772.jpg">
+                    <img src="https://i.pinimg.com/736x/50/70/55/50705535ce54a7405fd1ce3131bfcc94--engineering-careers-stem-careers.jpg">
              </figure>
             <figure class="col-sm-3">
-                    <img src="gwc.png">
+                    <img src="gwca.png">
              </figure>
              <figure class="col-sm-3">
                     <img src="https://www.askideas.com/wp-content/uploads/2018/04/We-are-all-entitled-to-live-free-and-equal.-Amina-J-Mohammed.jpg">
