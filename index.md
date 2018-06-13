@@ -23,7 +23,6 @@
       <figure class="col-sm-12">
       </figure>
     </div>  
-
 </section><section class="container">
     <div class="row">
       <figure class="col-sm-4 text-center">
@@ -47,9 +46,9 @@
           </figure>
           <figure class="col-sm-6">
             <p style="font-size:400%;">March 22, 1972</p>
-            <p style="font-size:250%;">The Equal Rights Ammendment for Women</p>
+            <p style="font-size:200%;">The Equal Rights Ammendment for Women</p>
             <p style="font-size:125%;">   It's been almost 50 years since women were granted legal equality and protection from gender discrimination. Yet, we are still struggling with equal participation of girls among STEM feilds...</p>
-            <p style="font-size: 500%;">Why!?</p>
+            <p style="font-size: 300%;">Why!?</p>
           </figure>
     </div>
  
