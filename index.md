@@ -60,7 +60,7 @@
     </div>
         <section class="container">
           <div class="row">
-            <figure class="col-sm-3>
+            <figure class="col-sm-3">
                     <img src="https://infographic.statista.com/normal/chartoftheday_11667_the_long_road_to_gender_equality_n.jpg">
              </figure>
              <figure class="col-sm-3>
