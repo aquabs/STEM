@@ -28,7 +28,8 @@
 <figure class="col-sm-4 text-center">
         <h2 class="ex1">Workplace Discrepancy</h2>
          <img src="https://americanlibrariesmagazine.org/wp-content/uploads/2017/06/saujani-reshma.jpg">
-      </figure>
+
+</figure>
        <figure class="col-sm-4 text-center">
          <h2 class="ex1">Empowerment</h2>
            <img src="https://knightfoundation.org/media/uploads/media_images/Girls_Who_Code.jpg">
@@ -55,7 +56,8 @@
               <li>Childcare</li>
               <li>Marginalization</li>
             </ul>
-            <p style="font-size:300%;">LET'S CHANGE THAT!</p>
+            <br>
+            <p style="font-size:300%; text-center">LET'S CHANGE THAT!</p>
           </figure>
     </div>
         <section class="container">
