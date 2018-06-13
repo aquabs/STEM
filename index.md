@@ -56,7 +56,7 @@
               <li>Childcare</li>
               <li>Marginalization</li>
             </ul>
-            <br>
+            <p style="font-size:300%;"> </p>
             <p style="font-size:300%; text-center">LET'S CHANGE THAT!</p>
           </figure>
     </div>
