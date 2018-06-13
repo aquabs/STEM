@@ -43,11 +43,11 @@
       <section class="container">
         <div class="row">
           <figure class="col-sm-8 align-right">
+            <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8db06921474945.56301dfc4405c.png">
           </figure>
           <figure class="col-sm-4 align-left">
           </figure>
     </div>
-  </section>
  
   <footer class="container">
     <div class="row">
