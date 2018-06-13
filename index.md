@@ -55,9 +55,25 @@
               <li>Childcare</li>
               <li>Marginalization</li>
             </ul>
-            <p style="font-size:400%;">LET'S CHANGE THAT!</p>
+            <p style="font-size:300%;">LET'S CHANGE THAT!</p>
           </figure>
     </div>
+        <section class="container">
+          <div class="row">
+            <figure class="col-sm-3>
+                    <img src="https://infographic.statista.com/normal/chartoftheday_11667_the_long_road_to_gender_equality_n.jpg">
+             </figure>
+             <figure class="col-sm-3>
+                    <img src="http://www.hippoquotes.com/img/gender-equality-quotes/66373fb27a65a1f8282f0461e9531772.jpg">
+             </figure>
+            <figure class="col-sm-3>
+                    <img src="gwc.png">
+             </figure>
+             <figure class="col-sm-3>
+                    <img src="https://www.askideas.com/wp-content/uploads/2018/04/We-are-all-entitled-to-live-free-and-equal.-Amina-J-Mohammed.jpg">
+             </figure>
+          </div>
+        </section>
  
   <footer class="container">
     <div class="row">
