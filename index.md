@@ -11,9 +11,9 @@
       <p class="col-sm-4">Home</p>
       <nav class="col-sm-8 text-right">
         <a href="https://aquabs.github.io/STEM-clubs/"><p>Clubs</p></a>
-        <p>Events</p>
-        <p>News</p>
-        <p>Contact</p>
+        <a href=" https://aquabs.github.io/STEM-events/. "><p>Events</p></a>
+        <a href="https://aquabs.github.io/STEM-news/"><p>News</p></a>
+        <a href=" https://aquabs.github.io/STEM-contacts/. "><p>Contact</p></a>
       </nav>
     </div>
   </header>
