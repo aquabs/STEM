@@ -23,7 +23,8 @@
       <figure class="col-sm-12">
       </figure>
     </div>  
-    </section>
+
+</section>
 <section class="container">
     <div class="row">
       <figure class="col-sm-4 text-center">
@@ -42,10 +43,14 @@
     </section>
       <section class="container">
         <div class="row">
-          <figure class="col-sm-8 align-right">
+          <figure class="col-sm-6">
             <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8db06921474945.56301dfc4405c.png">
           </figure>
-          <figure class="col-sm-4 align-left">
+          <figure class="col-sm-6">
+            <h1>March 22, 1972</h1>
+            <h2>The Equal Rights Ammendment for Women</h2>
+            <p>   It's been almost 50 years since women were granted legal equality and protection from gender discrimination. Yet, we are still struggling with equal participation of girls among STEM feilds...</p>
+            <h1>Why!?</h1>
           </figure>
     </div>
  
