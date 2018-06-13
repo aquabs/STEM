@@ -25,7 +25,6 @@
     </div>  
 </section><section class="container">
     <div class="row">
-
 <figure class="col-sm-4 text-center">
         <h2 class="ex1">Workplace Discrepancy</h2>
          <img src="https://americanlibrariesmagazine.org/wp-content/uploads/2017/06/saujani-reshma.jpg">
@@ -50,13 +49,13 @@
             <p style="font-size:200%;">The Equal Rights Ammendment for Women</p>
             <p style="font-size:125%;">   It's been almost 50 years since women were granted legal equality and protection from gender discrimination. Yet, we are still struggling with equal participation of girls among STEM feilds...</p>
             <p style="font-size: 300%;">Why!?</p>
-            <ul style="font-sze: 175%;">
+            <ul style="font-sze: 250%;">
               <li>Societal Pressures and Stigmas</li>
               <li>Lack of Encouragement</li>
               <li>Childcare</li>
               <li>Marginalization</li>
             </ul>
-            <p style="font-size:200%;">LET'S CHANGE THAT!</p>
+            <p style="font-size:400%;">LET'S CHANGE THAT!</p>
           </figure>
     </div>
  
