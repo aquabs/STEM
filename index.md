@@ -8,6 +8,13 @@
 <body>
   <header class="container">
     <div class="row">
+      <figure class="col-sm-12">
+        <img src="IMG_1939.JPG">
+      </figure>
+    </div>
+  </header>
+  <header class="container">
+    <div class="row">
       <p class="col-sm-4">Home</p>
       <nav class="col-sm-8 text-right">
         <a href="https://aquabs.github.io/STEM-clubs/"><p>Clubs</p></a>
