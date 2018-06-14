@@ -47,9 +47,9 @@
             <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8db06921474945.56301dfc4405c.png">
           </figure>
           <figure class="col-sm-6">
-            <p style="font-size:400%;">March 22, 1972</p>
-            <p style="font-size:200%;">The Equal Rights Ammendment for Women</p>
-            <p style="font-size:125%;">   It's been almost 50 years since women were granted legal equality and protection from gender discrimination. Yet, we are still struggling with equal participation of girls among STEM feilds...</p>
+            <p style="font-size:400%;">August 18, 1920</p>
+            <p style="font-size:200%;">Women were first considered equal enough to vote</p>
+            <p style="font-size:125%;">   It's been almost a hundred years since women were granted legal equality of say in the goverment, depselling a common form of gender discrimination. Yet gender discrimination is still prevelent, we are still struggling with equal participation of girls among STEM feilds...</p>
             <p style="font-size: 300%;">Why!?</p>
             <ul style="font-sze: 250%;">
               <li>Societal Pressures and Stigmas</li>
