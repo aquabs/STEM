@@ -21,7 +21,7 @@
   <section class="container">
     <div class="row">
       <figure class="col-sm-12">
-        <img src="IMG_1939.JPG">
+        <img src="Camas.JPG">
       </figure>
     </div>  
 </section><section class="container">
