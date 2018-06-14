@@ -24,11 +24,6 @@ header {
   padding: 0px 0;
   color: #000000;
 }
-
-div.a{
-  transform: rotate(90deg);
-}
-
 header .row,
 
 footer .row {
