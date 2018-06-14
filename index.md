@@ -21,14 +21,14 @@
   <section class="container">
     <div class="row">
       <figure class="col-sm-12">
-        <img src="Camas.JPG">
+        <img src="Camas.JPG" height="400px">
       </figure>
     </div>  
 </section><section class="container">
     <div class="row">
 <figure class="col-sm-4 text-center">
         <h2 class="ex1">Workplace Discrepancy</h2>
-         <img src="https://americanlibrariesmagazine.org/wp-content/uploads/2017/06/saujani-reshma.jpg" height="400px">
+         <img src="https://americanlibrariesmagazine.org/wp-content/uploads/2017/06/saujani-reshma.jpg">
 
 </figure>
        <figure class="col-sm-4 text-center">
