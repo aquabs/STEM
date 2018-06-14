@@ -28,7 +28,7 @@
     <div class="row">
 <figure class="col-sm-4 text-center">
         <h2 class="ex1">Workplace Discrepancy</h2>
-         <img src="https://americanlibrariesmagazine.org/wp-content/uploads/2017/06/saujani-reshma.jpg">
+         <img src="https://americanlibrariesmagazine.org/wp-content/uploads/2017/06/saujani-reshma.jpg" height="400px">
 
 </figure>
        <figure class="col-sm-4 text-center">
