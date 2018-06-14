@@ -37,7 +37,7 @@
       </figure>
        <figure class="col-sm-4 text-center">
         <h2 class="ex1">Destroying Social Stigmas</h2>
-           <img src="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/H1B6857-e1484172042843.jpg">
+           <img src="https://3zjc852t4swp1lmezl171oga-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/H1B6857-e1484172042843.jpg" class="a">
       </figure>
   </div>
     </section>
