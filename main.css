@@ -25,6 +25,10 @@ header {
   color: #000000;
 }
 
+body col-sm-12 img{
+  transform: rotate(90deg);
+}
+
 header .row,
 
 footer .row {
