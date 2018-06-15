@@ -104,10 +104,10 @@ footer li img {
 }
 
 h2.ex1 {
-    border: 1px solid #F0F0F0;
+    border: 1px solid #0099aa8a;
     outline-style: solid;
-    outline-color: #F0F0F0;
+    outline-color: #0099aa8a;
     outline-width: thin;
-  background: #F0F0F0;
+  background: #0099aa8a;
   padding:0px;
 }
